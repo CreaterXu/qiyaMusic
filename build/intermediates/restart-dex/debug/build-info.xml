@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="13372536038789" >
+
+    <task
+        name="javac"
+        duration="890" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="18" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="F:\AndroidWorkspace\qiya\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+
+    <build timestamp="11515513327424" >
+        <artifact
+            location="F:\AndroidWorkspace\qiya\build\outputs\apk\qiya-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="13372536038789" >
+        <artifact
+            location="F:\AndroidWorkspace\qiya\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

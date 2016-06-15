@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <declare-styleable name="MaterialTabHost"><attr format="boolean" name="hasIcons"/><attr format="color" name="materialTabsPrimaryColor"/><attr format="color" name="accentColor"/><attr format="color" name="iconColor"/><attr format="color" name="textColor"/></declare-styleable>
+    <dimen name="materialTextTab">14sp</dimen>
+    <dimen name="tabSelectorHeight">2dp</dimen>
+    <dimen name="tabhostHeight">48dp</dimen>
+</resources>

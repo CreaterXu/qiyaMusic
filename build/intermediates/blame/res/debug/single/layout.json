@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_base.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\im_chatview.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\im_chatview.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\im_emotion_pager_classical_item.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\im_emotion_pager_classical_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\card_reconmmend.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\card_reconmmend.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\im_custom_imagebutton.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\im_custom_imagebutton.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\music_lineview.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\music_lineview.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\cardview.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\cardview.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\comments_lineview.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\comments_lineview.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\float_music.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\float_music.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\tab.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\qiya\\MaterialTabsModule\\unspecified\\res\\layout\\tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\material_tab_icon.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\qiya\\MaterialTabsModule\\unspecified\\res\\layout\\material_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\tab_icon.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\qiya\\MaterialTabsModule\\unspecified\\res\\layout\\tab_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\content_test.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\content_test.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zone_me.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\fragment_zone_me.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\im_voice_rcd_dialog.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\im_voice_rcd_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiya.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_qiya.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\im_chatview_item_chatting.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\im_chatview_item_chatting.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music_seerch.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_music_seerch.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zone_all.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\fragment_zone_all.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zone.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\fragment_zone.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\im_chatview_image.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\im_chatview_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\card_zone.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\card_zone.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\material_tab.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\qiya\\MaterialTabsModule\\unspecified\\res\\layout\\material_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_to_share.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_to_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\choiceimage_lineview.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\choiceimage_lineview.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\header_just_username.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\header_just_username.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\zone_all_lineview.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\zone_all_lineview.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\card_friends.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\card_friends.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\activity_musicplayer.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\activity_musicplayer.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_lineview.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\layout\\contacts_lineview.xml"
+    }
+]

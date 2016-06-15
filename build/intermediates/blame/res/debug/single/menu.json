@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\share.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\share.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\to_share.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\to_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\menu_toolbar.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\menu_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\musicplayer.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\musicplayer.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\load.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\load.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\qiya\\build\\intermediates\\res\\merged\\debug\\menu\\qiya.xml",
+        "source": "F:\\AndroidWorkspace\\qiya\\res\\menu\\qiya.xml"
+    }
+]

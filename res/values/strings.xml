@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">期牙</string>
+    <string name="title_activity_load">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_qiya">MainActivity</string>
+    <string name="title_activity_musicplayer">MainActivity</string>
+    <string name="title_activity_chat">MainActivity</string>
+    <string name="title_activity_to_share">MainActivity</string>
+    <string name="title_activity_share">MainActivity</string>
+    <string name="title_activity_music_seerch">MainActivity</string>
+
+    <string name="recommend_music">推荐歌曲名</string>
+    <string name="recommend_details">推荐你听听看，很细腻的声音</string>
+    <string name="default_date">2016.4.26</string>
+    <string name="default_people_zan">徐小凤，张卷毛，方肉肉</string>
+    <string name="people_zan">等觉得很赞</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="default_name">宵鋒</string>
+    <string name="zone_music">动态歌曲名《好久不见》</string>
+    <string name="zone_details">动态歌曲名，Eason唱的真的很好听</string>
+    <string name="default_relation">伯乐</string>
+    <string name="defaule_autograph">赶紧快来体验我的快乐吧</string>
+
+
+</resources>
